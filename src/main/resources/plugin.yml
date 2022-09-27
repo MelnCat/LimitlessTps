@@ -1,0 +1,7 @@
+name: LimitlessTps
+version: '${version}'
+main: dev.melncat.limitlesstps.LimitlessTps
+api-version: 1.19
+load: STARTUP
+authors: [ MelnCat ]
+description: Removes the 20 TPS limit from Minecraft.
